@@ -2,15 +2,11 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [designs.js]()
+* [index.html]()
+* [styles.css]()
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To view the project live please visit https://codepen.io/biwassrijeet99/full/wjjNKZ/
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
